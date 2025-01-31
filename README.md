@@ -1,2 +1,22 @@
-# ReactPath
-This is my first touch with React as technology!
+# ReactPath 🌏
+
+👉This is my first touch with React as technology!
+
+✔The repository contains: 
+
+📌Quote 📝
+
+👉My First React Application with random quotes 📌
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📌OMDB_Movie app 🎥
+
+📌Used technologies:
+
+📌React, Redux, Router, Axios...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Made with love by Gergana ™
